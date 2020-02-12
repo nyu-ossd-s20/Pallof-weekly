@@ -50,7 +50,8 @@ url: https://github.com/nyu-ossd-s20/Pallof-weekly/
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "Pallof-weekly"
+baseurl: https://nyu-ossd-s20.github.io/Pallof-weekly
+#"Pallof-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
